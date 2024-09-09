@@ -10,7 +10,7 @@ const firebaseConfig = {
     projectId: "housing-market-966bb",
     storageBucket: "housing-market-966bb.appspot.com",
     messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-    appId: process.env.process.env.REACT_APP_FIREBASE_APP_ID
+    appId: process.env.REACT_APP_FIREBASE_APP_ID
 };
 
 // Initialize Firebase
